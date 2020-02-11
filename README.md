@@ -1,2 +1,1 @@
-# chinzo
-Bla blabla
+.
